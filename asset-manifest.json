@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/robosearch/static/css/main.f4f5a038.chunk.css",
-    "main.js": "/robosearch/static/js/main.f6493827.chunk.js",
-    "main.js.map": "/robosearch/static/js/main.f6493827.chunk.js.map",
+    "main.js": "/robosearch/static/js/main.da7ec9a2.chunk.js",
+    "main.js.map": "/robosearch/static/js/main.da7ec9a2.chunk.js.map",
     "runtime-main.js": "/robosearch/static/js/runtime-main.8b7c19b1.js",
     "runtime-main.js.map": "/robosearch/static/js/runtime-main.8b7c19b1.js.map",
     "static/css/2.fe359a49.chunk.css": "/robosearch/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.213abb83.chunk.js",
     "static/css/main.f4f5a038.chunk.css",
-    "static/js/main.f6493827.chunk.js"
+    "static/js/main.da7ec9a2.chunk.js"
   ]
 }
